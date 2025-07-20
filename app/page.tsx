@@ -858,7 +858,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <p className="font-medium text-sm sm:text-base">Email Me!</p>
-                    <p className="text-sky-100 text-sm sm:text-base break-all">mariamemeter@gmail.com</p>
+                    <p className="text-sky-100 text-sm sm:text-base break-all">mariamcollinslawal@gmail.com</p>
                   </div>
                 </div>
 
