@@ -988,7 +988,7 @@ export default function Portfolio() {
       <footer className="py-6 sm:py-8 px-4 sm:px-6 bg-slate-900 text-sky-100 text-center">
         <div className="max-w-6xl mx-auto">
           <p className="text-xs sm:text-sm">
-            © 2024 Matte & Milk. Made with lots of ☕, endless ✨, and a sprinkle of magic! 🪄
+            © 2025 Matte & Milk. Made with lots of ☕, endless ✨, and a sprinkle of magic! 🪄
           </p>
         </div>
       </footer>
